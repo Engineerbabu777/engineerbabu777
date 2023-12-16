@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I Love Coding.....**
 
--![](https://komarev.com/ghpvc/?username=Engineerbabu777&color=green);
+![](https://komarev.com/ghpvc/?username=Engineerbabu777&color=green)
 
 
 <h3 align="left">Languages and Tools:</h3>
