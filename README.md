@@ -24,5 +24,5 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=engineerbabu777&theme=dark&show_icons=true&locale=en&layout=compact" alt="engineerbabu777" />
 
 </p>
-![LeetCode Stats](https://leetcard.jacoblin.cool/awaismumtaz0099?theme=dark&font=Noto%20Sans%20Old%20Turkic)
+  <img align="left" src="https://leetcard.jacoblin.cool/jacoblincool?animation=true" alt="engineerbabu777" />
 
