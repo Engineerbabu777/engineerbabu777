@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Awais Mumtaz(Engineer Babu)</h1>
-<h3 align="center">A Passionate Full Stack Developer from Istanbul,Turkey</h3>
+<h3 align="center">A Passionate Full Stack Developer from Jhang, Pakistan</h3>
 
 - 🔭 I’m currently working on **Full Stack Social Media Application**
 
