@@ -22,6 +22,12 @@
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=engineerbabu777&theme=dark&show_icons=true&locale=en&layout=compact" alt="engineerbabu777" />
 
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=engineerbabu777&show_icons=true&locale=en&layout=compact" alt="engineerbabu777" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=engineerbabu777&show_icons=true&locale=en" alt="engineerbabu777" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=engineerbabu777&" alt="engineerbabu777" /></p>
+
 </p>
   <img align="left" src="https://leetcard.jacoblin.cool/awaismumtaz0099?theme=dark&font=Noto%20Sans%20Old%20Turkic" alt="engineerbabu777" />
 
