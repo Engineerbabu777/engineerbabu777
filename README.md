@@ -24,6 +24,7 @@
 
   <img align="left" src="https://streak-stats.demolab.com?user=engineerbabu777&theme=dark&card_width=520" alt="engineerbabu777" />
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=engineerbabu777&theme=dark&card_width=520)](https://git.io/streak-stats)
 </p>
   <img align="left" src="https://leetcard.jacoblin.cool/awaismumtaz0099?theme=dark&font=Noto%20Sans%20Old%20Turkic" alt="engineerbabu777" />
 
