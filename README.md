@@ -24,8 +24,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Engineerbabu777&show_icons=true&locale=en" alt="engineerbabu777" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Engineerbabu777&" alt="Engineerbabu777" /></p>
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Engineerbabu777&theme=dark)](https://git.io/streak-stats)
 </p>
   <img align="left" src="https://leetcard.jacoblin.cool/awaismumtaz0099?theme=dark&font=Noto%20Sans%20Old%20Turkic" alt="engineerbabu777" />
 
