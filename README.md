@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **awaismumtaz0099@gmail.com**
 
-- ⚡ Fun fact **I Love Coding........**
+- ⚡ Fun fact **I Love Coding.....**
 
 ![](https://komarev.com/ghpvc/?username=Engineerbabu777&color=green)
 
