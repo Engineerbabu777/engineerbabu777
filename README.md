@@ -10,6 +10,8 @@
 - 📫 How to reach me **awaismumtaz0099@gmail.com**
 
 - ⚡ Fun fact **I Love Coding........**
+  
+-  ⛳ 2025 Goals => Become a DevOps Legend, React Native Master, AWS Solution Architect, K8s Administrator 
 
 ![](https://komarev.com/ghpvc/?username=Engineerbabu777&color=green)
 
