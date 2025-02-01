@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Full Stack Social Media Application**
 
-- 🌱 I’m currently learning **Flutter, Python, Next.js, React Native**
+- 🌱 I’m currently learning **Flutter, Python, Next.js, React Native, Swift, Angular, Django, Artificial Intelligence, Machine Learning, Deep Learning, AWS, DevOps, Electron.js **
 
 - 💬 Ask me about **Next.js, JavaScript, React.js, C++, Java**
 
