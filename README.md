@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **awaismumtaz0099@gmail.com**
 
-- ⚡ Fun fact **I Love Coding........**
+- ⚡ Fun fact **I Love Coding Nah Bruh!........ Coding Loves Me💞**
   
 -  ⛳ 2025 Goals => Become a DevOps Legend, React Native Master, AWS Solution Architect, K8s Administrator, CLoud Engineer
 
