@@ -13,6 +13,8 @@
   
 -  ⛳ 2025 Goals => Become a DevOps Legend, React Native Master, AWS Solution Architect, K8s Administrator, CLoud Engineer
 
+-  🎯 Working on Building 20 React Native Projects in 100 Days.
+
 ![](https://komarev.com/ghpvc/?username=Engineerbabu777&color=green)
 
 
