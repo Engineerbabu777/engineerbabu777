@@ -27,7 +27,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=engineerbabu777&theme=dark&show_icons=true&locale=en&layout=compact" alt="engineerbabu777" />
 
   
-  <img align="left" src="https://streak-stats.demolab.com?user=engineerbabu777&theme=dark" alt="engineerbabu7777" />
+  <img align="left" src="https://streak-stats.demolab.com?user=engineerbabu777&theme=dark" alt="engineerebabu7777" />
 
 </p>
   <img align="left" src="https://leetcard.jacoblin.cool/awaismumtaz0099?theme=dark&font=Noto%20Sans%20Old%20Turkic" alt="engineerbabu777" />
